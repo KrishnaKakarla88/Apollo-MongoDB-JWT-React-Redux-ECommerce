@@ -1,6 +1,7 @@
 # State Management using Redux Store
 
 This is developed using React’s Redux + Context API.
+The application uses a GraphQL API built with Apollo Server and Apollo Client, JWT authentication, Stripe implementation, password encryption.
 
 ## User Story
 
@@ -45,8 +46,6 @@ Please read through the Redux [basic tutorial](https://redux.js.org/basics/basic
 
 
 ## Review
-
-You are required to submit BOTH of the following for review:
 
 * The URL of the functional, deployed application.
 
