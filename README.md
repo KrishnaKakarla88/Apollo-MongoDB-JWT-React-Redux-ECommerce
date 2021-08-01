@@ -52,5 +52,5 @@ You are required to submit BOTH of the following for review:
 
 * URL of the GitHub repository (https://github.com/KrishnaKakarla88/Apollo-MongoDB-JWT-React-Redux-ECommerce)
 
-# To clone this repository
+### To clone this repository
 * git clone https://github.com/KrishnaKakarla88/Apollo-MongoDB-JWT-React-Redux-ECommerce
